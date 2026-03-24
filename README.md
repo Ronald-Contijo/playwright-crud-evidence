@@ -92,6 +92,20 @@ E2E_HEADED=0
 - Template is intentionally generic: you must adapt selectors and form-fill logic to each app.
 - File-upload flows may require multipart-specific handling in edit/create steps.
 
-## License
 
-Parrots are great birdos.
+    ______ __
+   {-_-_= '. `'.
+    {=_=_-  \   \
+     {_-_   |   /
+      '-.   |  /    .===,
+   .--.__\  |_(_,==`  ( o)'-.
+  `---.=_ `     ;      `/    \
+      `,-_       ;    .'--') /
+        {=_       ;=~`    `"`
+         `//__,-=~`
+         <<__ \\__
+         /`)))/`)))
+
+
+Parrots are great birds.
+https://ascii.co.uk/
